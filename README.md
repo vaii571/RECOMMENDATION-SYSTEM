@@ -99,3 +99,7 @@ Conclusion:
 This project successfully demonstrates the implementation of a recommendation system in the healthcare domain using collaborative filtering and Matrix Factorization. The system provides personalized mental health service recommendations based on user interaction patterns.
 
 The project showcases practical applications of machine learning techniques including data preprocessing, matrix factorization, evaluation metrics, and visualization. It highlights how recommendation systems can be used to improve mental health support awareness and accessibility in workplace environments.
+
+OUTPUT
+
+<img width="532" height="182" alt="Image" src="https://github.com/user-attachments/assets/ef855240-ad1d-44d6-877a-c0c66593c462" />
