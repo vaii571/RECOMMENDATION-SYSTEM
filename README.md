@@ -103,3 +103,5 @@ The project showcases practical applications of machine learning techniques incl
 OUTPUT
 
 <img width="532" height="182" alt="Image" src="https://github.com/user-attachments/assets/ef855240-ad1d-44d6-877a-c0c66593c462" />
+
+<img width="532" height="182" alt="Image" src="https://github.com/user-attachments/assets/ef855240-ad1d-44d6-877a-c0c66593c462" />
